@@ -31,11 +31,48 @@ Intro:
 ## TECH STACK
 ![](8_Tech_St.PNG)
 
-## TECH STACK
+## DATA ANALYSIS
+![](Metrics.PNG)
+
+
 ![](9_Anal_Dire.PNG)
 
+![](Custmers.PNG)
+
+![](Sources.PNG)
+
+![](Rev.PNG)
+
+![](Accom_Dest.PNG)
+
+![](Time_S.PNG)
+
+![](Booking_Anal_DB.PNG)
+
+![](Rev_Anal_DB.PNG)
 
 
+
+
+
+
+Insights_Analysis.PNG
+
+
+
+
+
+
+
+
+
+
+
+Travel bookings Dataset.xlsx
+
+Untitled_Report.pdf
+
+image_1.PNG
 
 
 
@@ -55,52 +92,9 @@ Intro:
 
 
 
-4 minutes ago
-Accom_Dest.PNG
-Add files via upload
-4 minutes ago
-Booking_Anal_DB.PNG
-Add files via upload
-4 minutes ago
-Custmers.PNG
-Add files via upload
-4 minutes ago
-Insights_Analysis.PNG
-Add files via upload
-4 minutes ago
-Metrics.PNG
-Add files via upload
-4 minutes ago
-README.md
-Initial commit
-6 minutes ago
-Rev.PNG
-Add files via upload
-4 minutes ago
-Rev_Anal_DB.PNG
-Add files via upload
-4 minutes ago
-Sources.PNG
-Add files via upload
-4 minutes ago
-Time_S.PNG
-Add files via upload
-4 minutes ago
-Travel bookings Dataset.xlsx
-Add files via upload
-4 minutes ago
-Untitled_Report.pdf
-Add files via upload
-4 minutes ago
-data_fied.PNG
-Add files via upload
-4 minutes ago
-image_1.PNG
-Add files via upload
-4 minutes ago
-image_2.PNG
-Add files via upload
-4 minutes ago
+
+
+
 image_3.png
 Add files via upload
 4 minutes ago
