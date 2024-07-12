@@ -52,7 +52,8 @@ Intro:
 ![](Rev_Anal_DB.PNG)
 
 
-
+## LINK TO REPORT:
+https://lookerstudio.google.com/s/g0u7NZojxjM
 
 
 
